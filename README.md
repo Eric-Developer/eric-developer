@@ -22,4 +22,3 @@
   <a href = "#" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-![Linguagens de Programação](https://img.shields.io/badge/Linguagens%20de%20Programa%C3%A7%C3%A3o-TypeScript%20(40%25)%20%7C%20JavaScript%20(30%25)%20%7C%20Outras%20(30%25)-blue)
